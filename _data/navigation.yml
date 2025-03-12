@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "군밤의 미학"
       section: services
-    - title: "Portfolio"
+    - title: "군밤의 탄생"
       section: portfolio
-    - title: "About"
+    - title: "군밤의 전설1"
       section: about
-    - title: "Contact"
+    - title: "군밤의 전설2"
       section: contact
 en-US:
   <<: *DEFAULT_EN

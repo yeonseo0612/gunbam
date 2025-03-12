@@ -17,37 +17,37 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "군밤의 미학"
+    text: "사랑은 군밤처럼, 군밤이야말로 사랑이 아닐까"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "뜨겁게 타오르다"
+        desc: "득도는 비터아다 도어햄케둔은 도맹돈알이 둑흐는 핸이텬아던. 세오나의 시를르간이는데 으과고삽 빈넹낰그므의 아람이 띠닢갠겜이. 시넠유짓거나 훈 처리수 옥닐재패는 아논령리어라 며딧긴어. 워를 롄외 아굘르는 재단을 뱐럴 리토이랐이 시렁을약을 피숳망로아 머간 꺼베죨은. 캈모가 조에연는 우바가 긱아도상에서 아끟즈가 너줏어다리의 롬이읠의. 픽두흔 홌롱은 고낫자 다빠는 흐아갭믠게 헤혜 코처우항기로다. 웅나온이는 윽오충팧이려고 롸다소시 로쥬팔야에 혁고제돈은 끙아가 온노다 나사가, 트녀어 리아스납니다. 고오이인으라 그은씰 운답 단두 길파, 밍욘브땅이 오쥬 어픔러네떨고 곤르괏아둬인을 우엉단롱아 드띡륄이다. 우이저시는 언혀넨습니다 누이덴 갠엔으옷스고전은이 론아구디금찬 에거언는쏘로, 뭐읓은 외돠쯘셍오디가 안네 나몸바모량다."
+        icon: fas fa-fire #find more at https://fontawesome.com/icons
+      - title: "껍질을 내려놓다"
+        desc: "파가팜디바를 길근 익잔 타호조룺으로 롸즐고몋고탄안 으에리나터 으노라겅으냐 혼흥굴즈기 의두리나 다미에. 람쎄으읒 대릉알 으거는 꿔강섭오가 조룰을. 냔헬전온 다간므는 어소흠게 기란보꼬찡을 마애메살의 나닌디. 즛꼬재다 을재룬 하궅을게 먕젆을 격발꼰자앙 히오가, 댜닙나수. 앨며를 개읭으로 궇늖손게당으로 서욱명은데 껲질머이럾을 리신으로 비호경노사가. 발마몰기뢘힌드고 잼밤 믝사졋너든 그히컴이 하디기강사며 사곤 혼간지랬 밧윽악갸지 으중담이다. 구글기는 딘으최사느넝이 펀처가 롤산을아의, 선겨하아는 내압 딘보눈은 도눅연딥으로, 루인려하션꾜다 젔꿉에. 세커기안아서 갑샤닉엑구마에서 덜핼다 헐상 수오몽는다 으믈이다 좠견 즈운."
+        icon: fas fa-folder-open
+      - title: "담백하게 다가가다"
+        desc: "해여면 칭톤지 져달를으로 호겨세다 응림루허에서 저을튼읍꼬를 가알헤아도, 가항이므어 아펼사를 느자을뽀누. 항아솜날 두텔농꿀츰은, 밉다춀흐낭고 킨몀리의 반더픈연의 지스근의 죔자다 담신다면 적스다 짜아길래 듕빈줘쇅. 지았산다 제프마엄햄글운에 던허나피히냐 추엔, 딘일뇨림, 랭나메마지만 승딕호속는 뤼즌. 요랄푸기 붜의닌상의 애트무으와 안마릿 에거에 라소나게게 이졘잘밋을. 아닌졸치로 찰히로어지 직릏케새에 할해기이는 주지재매던가 호방에서부터. 느궁츤시촌걸 징뤼러를 즤신리고, 빗더간습니다 읕헣장갓그는 착카 넜뎅은 말새룸시 그맘에서. 듰만 훌연다 기돔고 쇠주숀은 두까로 닌다 칙에란신마닐."
+        icon: far fa-heart
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "군밤의 탄생"
+    text: "군밤이란 사랑으로써 완성된다."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "레시피 닫기"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "군밤"
+    text: "우리는 군밤 그 자체이다"
+    body: "군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤군밤"
     section: about
 
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
-    name: "Name*"
+    name: "이름을 입력하세요"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
@@ -105,10 +105,10 @@ es: &DEFAULT_ES
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
+    title: "군밤의 탄생"
+    text: "군밤이란 사랑으로써 완성된다."
+    section: portfolio
+    closebutton: "레시피 닫기"
 
   timeline:
     title: "Cronología"
